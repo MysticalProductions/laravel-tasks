@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Arcturustest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0DD70FA9390140A8A31EBDD382E4F13B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9F3B4F97203E47A789F7B2347111D331 }}
           package: .
